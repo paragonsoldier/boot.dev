@@ -1,0 +1,2 @@
+# Q: Binary 1101 is equivalent to which number in decimal?
+# A: 13
