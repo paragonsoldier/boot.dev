@@ -1,0 +1,2 @@
+# Q: Which would be a good use of a set?
+# A: To store all the possible spells in a game
