@@ -1,0 +1,2 @@
+# Q: Which keyword triggers and exception in Python?
+# A: raise
