@@ -1,0 +1,3 @@
+wc -c worldbanc/public/pr_ideas.txt
+
+1098

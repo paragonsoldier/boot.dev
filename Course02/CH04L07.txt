@@ -1,0 +1,2 @@
+Q: After deleting you PATH, what happens when you try to run 'ls'?
+A: The command isn't found

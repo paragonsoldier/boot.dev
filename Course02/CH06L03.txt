@@ -1,0 +1,2 @@
+Q: What do package managers, like apt and brew, NOT do?
+A: Debug code and fix bugs in the software it manages 

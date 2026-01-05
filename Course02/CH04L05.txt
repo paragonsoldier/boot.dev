@@ -1,0 +1,2 @@
+Q: Why might you restart your shell after changing a shell configuration file?
+A: Because the config file runs automatically when you start a new shell session.

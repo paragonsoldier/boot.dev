@@ -1,0 +1,1 @@
+The **up** arrow goes back in your history, and the **down** arrow goes forward.

@@ -1,0 +1,2 @@
+Q: What changed when we added the PATH change to the config file?
+A: The 'worldbanc.sh' script is available from anywhere, even after a session restart

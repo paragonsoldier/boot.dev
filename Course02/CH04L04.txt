@@ -1,0 +1,1 @@
+**bash** and **zsh** are a superset of **sh**. They can do anything **sh** can do, and more.

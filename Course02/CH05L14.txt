@@ -1,0 +1,2 @@
+Q: Which is the more powerful interface, at least from an extensibility and interoperability standpoint?
+A: Text

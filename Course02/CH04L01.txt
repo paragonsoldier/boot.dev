@@ -1,0 +1,2 @@
+Q: What is the output of 'cat'ing the sh executable?
+A: A bunch of gibberish (raw bytes attempting to be interpreted as text)

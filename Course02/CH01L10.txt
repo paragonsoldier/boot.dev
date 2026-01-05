@@ -1,0 +1,2 @@
+Q: Which is not a terminal emulator?
+A: Ubuntu

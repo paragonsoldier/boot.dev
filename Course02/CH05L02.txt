@@ -1,0 +1,2 @@
+Q: Which of the following grep options is incorrect?
+A: -t, --test
