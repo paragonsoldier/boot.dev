@@ -1,0 +1,1 @@
+Abstraction emphasizes **Exposing the right features** and encapsulation emphasizes **combining data and behavior while hiding internal implementation details**.
