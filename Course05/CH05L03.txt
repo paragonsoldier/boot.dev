@@ -1,0 +1,2 @@
+Q: Obviously, `Boot.dev` should inherit from `BestLearningPlatform`
+A: True
