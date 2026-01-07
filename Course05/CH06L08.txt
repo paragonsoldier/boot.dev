@@ -1,0 +1,2 @@
+Q: `def add(a, b) return a + b` and `def add (a, b, c) return a` have the same signature
+A: False
