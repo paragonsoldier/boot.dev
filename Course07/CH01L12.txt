@@ -1,0 +1,4 @@
+Interview with Boots
+Boots is expecting you to satisfy the acceptance criteria:
+1. Expressions always yield a value, which makes them composable and easy to combine.
+2. Functional programming emphasizes using values and minimizing side effects, which expressions support.

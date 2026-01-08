@@ -1,0 +1,2 @@
+Q: Why learn functional programming in Python?
+A: Because we already know Python

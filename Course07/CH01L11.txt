@@ -1,0 +1,1 @@
+OOP's concept of **inheritance** conflicts with functional programming.

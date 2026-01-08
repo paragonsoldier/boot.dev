@@ -1,0 +1,2 @@
+Q: Which encourages you to break down problems into instances of stateful things?
+A: Classes
