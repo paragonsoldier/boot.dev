@@ -1,0 +1,2 @@
+Q: Which is the imperative way to apply changes to a list of items?
+A: A loop

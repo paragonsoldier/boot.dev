@@ -1,0 +1,2 @@
+Q: What's the primary advantage of composing functions instead of using loops?
+A: Avoiding stateful mutations, which can be harder to debug and reason about.
