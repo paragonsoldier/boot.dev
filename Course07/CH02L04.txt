@@ -1,0 +1,2 @@
+Q: Which is the higher order function in the second example?
+A: my_map

@@ -1,0 +1,2 @@
+Q: What is a function that returns another function?
+A: Higher order function
