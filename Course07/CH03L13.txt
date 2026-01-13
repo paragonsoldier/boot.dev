@@ -1,0 +1,2 @@
+Q: Which expression is not referentially transparent as the integer 5?
+A: "2" + "3"

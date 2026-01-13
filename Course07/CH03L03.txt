@@ -1,0 +1,1 @@
+Example 2 is **impure because it affects state in an outer scope**. 

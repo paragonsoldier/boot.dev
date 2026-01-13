@@ -1,0 +1,1 @@
+I/O should be **Limited to specific parts of the codebase** in functional programming.

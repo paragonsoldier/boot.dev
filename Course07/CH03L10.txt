@@ -1,0 +1,1 @@
+From the user's perspective, a program with no i/o **does nothing**. 
