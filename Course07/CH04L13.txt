@@ -1,0 +1,2 @@
+Q: Which is typically more performant in Python?
+A: A regular old 'for' loop

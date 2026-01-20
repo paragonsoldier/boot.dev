@@ -1,0 +1,2 @@
+Q: What happens if a recursive function has no base case?
+A: It will keep calling itself forever, resulting in an infinite loop. 

@@ -1,0 +1,2 @@
+Q: What makes it hard to loop over a tree?
+A: You don't know the depth of the tree (number of nested levels). 

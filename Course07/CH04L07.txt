@@ -1,0 +1,2 @@
+Q: What would happen if we swapped `countdown(n - 1)` with `countdown(n)` for n > 0?
+A: An infinite recursive loop

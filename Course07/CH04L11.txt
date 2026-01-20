@@ -1,0 +1,1 @@
+Loops are used often by good programmers even though they break the academic rules of functional programming: True

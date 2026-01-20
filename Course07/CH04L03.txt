@@ -1,0 +1,2 @@
+Q: What is printed if I call `print_chars('elephant', 3)`?
+A: phant

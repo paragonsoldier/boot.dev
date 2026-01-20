@@ -1,0 +1,2 @@
+Q: Which line contains the base case?
+A: if n == 0
