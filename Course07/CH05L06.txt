@@ -1,0 +1,2 @@
+Q: Couldn't we just explicitly defind bold_formatter, italic_formatter, and bullet_point_formatter as normal functions
+A: Yes, but it will probably require more code. 

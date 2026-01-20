@@ -1,0 +1,2 @@
+Q: Where can 'inner_func' be referenced directly?
+A: Only within self_math()
