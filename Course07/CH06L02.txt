@@ -1,0 +1,1 @@
+A closure **can change** the value of a variable outside its body.
