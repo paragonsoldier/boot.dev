@@ -1,0 +1,2 @@
+Q: When should you curry functions in Python?
+A: Rarely, only when it serves a clear purpose.
