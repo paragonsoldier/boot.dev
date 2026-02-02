@@ -1,0 +1,2 @@
+Q: True/False - Function decorators are not as widely supported as higher-order functions.
+A: True

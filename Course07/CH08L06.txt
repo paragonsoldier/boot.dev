@@ -1,0 +1,1 @@
+Function currying, higher-order functions, and first class functions are **commonplace in most programming languages**.
