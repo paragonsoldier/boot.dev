@@ -1,0 +1,2 @@
+Q: Which language does not support proper sum types?
+A: Python
