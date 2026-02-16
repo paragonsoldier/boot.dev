@@ -1,0 +1,2 @@
+Q: Which is the inverse of `__mul__`?
+A: __truediv__

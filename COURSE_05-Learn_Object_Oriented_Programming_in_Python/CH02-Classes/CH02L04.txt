@@ -1,0 +1,2 @@
+Q: Which operators on an instance of a class?
+A: Method

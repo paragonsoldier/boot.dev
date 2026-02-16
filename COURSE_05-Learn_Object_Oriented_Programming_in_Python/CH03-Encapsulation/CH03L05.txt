@@ -1,0 +1,2 @@
+Q: Python enforces encapsulation by fully preventing developers from touching private class members
+A: False

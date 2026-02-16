@@ -1,0 +1,2 @@
+OOP developers generally think of programs as **modeling the real world with objects**.
+

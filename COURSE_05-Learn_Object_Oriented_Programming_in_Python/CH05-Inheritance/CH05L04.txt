@@ -1,0 +1,1 @@
+**Flower** should inherit from **Plant**.
