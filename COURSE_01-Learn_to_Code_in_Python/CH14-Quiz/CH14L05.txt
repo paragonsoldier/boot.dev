@@ -1,0 +1,5 @@
+Interview with Boots
+Would Python be a good language for aspiring developers to learn? Why or why not?
+
+Boots is expecting you to satisfy the acceptance criteria:
+Yes, the syntax is simple and relatively easy to read and write, and Python is popular.

@@ -1,0 +1,4 @@
+2024-01-10 01:10:27 CRITICAL: Boots is loose in the server room.
+2024-01-10 05:58:18 CRITICAL: Server is on fire, please evacuate.
+2024-01-10 20:13:04 CRITICAL: Someone rm -rf'd the root directory.
+2024-01-10 20:19:37 CRITICAL: Database files are corrupt.

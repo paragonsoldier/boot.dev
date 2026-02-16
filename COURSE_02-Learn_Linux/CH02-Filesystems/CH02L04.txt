@@ -1,0 +1,2 @@
+Q: Which is a relative path?
+A: home/ryan

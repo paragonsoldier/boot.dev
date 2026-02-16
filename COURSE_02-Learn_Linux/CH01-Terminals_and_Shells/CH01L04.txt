@@ -1,0 +1,1 @@
+A terminal (or terminal emulator) **is a program that accepts text based commands and can render text on the screen**. 

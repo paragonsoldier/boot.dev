@@ -1,2 +1,0 @@
-# Q: What does the binary number 1100 represent in decimal?
-# A: 12

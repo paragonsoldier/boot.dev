@@ -1,0 +1,2 @@
+Q: What's Python not really used for?
+A: Frontend apps

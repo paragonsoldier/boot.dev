@@ -1,2 +1,0 @@
-# Q: When should we use the no-index syntax?
-# A: When we don't need to know the index, just the value 

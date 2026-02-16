@@ -1,2 +1,0 @@
-`pwd` - prints the current working directory
-/data/data/com.termux/files/home/Boot.Dev/Course02

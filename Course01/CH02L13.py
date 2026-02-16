@@ -1,2 +1,0 @@
-# Q: What king of typing does Python employ?
-# A: Dynamic

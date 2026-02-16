@@ -1,0 +1,2 @@
+Q: What happens if you run `sudo rm -rf /"?
+A: You computer will be wiped clean of all files, including files needed to function.

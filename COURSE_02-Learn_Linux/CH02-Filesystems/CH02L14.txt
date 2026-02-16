@@ -1,0 +1,2 @@
+Q: What does the filepath ~/workspace/names.csv refer to?
+A: A 'names.csv' file in a 'workspace' directory in the home directory.

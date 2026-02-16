@@ -1,1 +1,0 @@
-# Functions must be **defined** before they can be **called**. 

@@ -1,0 +1,7 @@
+Interview with Boots
+The `calculate_damage` function is called 3 times in the example. Which variables store the results?
+
+Boots is expecting you to satisfy the acceptance criteria:
+1. The first call to `calculate_damage` stores the result in `first_damage`.
+2. The second call to `calculate_damage` stores the result in `second_damage`.
+3. The third call to `calculate_damage` stores the result in `third_damage`.

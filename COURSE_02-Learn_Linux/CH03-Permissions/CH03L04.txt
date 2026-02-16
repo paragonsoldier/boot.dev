@@ -1,0 +1,7 @@
+drwx------ 2 awilson awilson 4096 Feb  2 16:15 bin
+drwx------ 4 awilson awilson 4096 Feb  2 16:15 cmd
+drwx------ 2 awilson awilson 4096 Feb  2 16:15 contacts
+drwx------ 2 awilson awilson 4096 Feb  2 16:15 customers
+-rwx------ 1 awilson awilson 1169 Feb  2 16:15 key.txt
+drwx------ 2 awilson awilson 4096 Feb  2 16:15 logs
+drwx------ 3 awilson awilson 4096 Feb  2 16:15 transactions

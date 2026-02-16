@@ -1,3 +1,0 @@
-Q: What does the lowercase '-v' flag do?
-A: prints the version
-

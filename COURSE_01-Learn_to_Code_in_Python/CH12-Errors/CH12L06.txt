@@ -1,0 +1,2 @@
+Q: True/False - Good code doesn't need to handle errors, it should be error-free
+A: False

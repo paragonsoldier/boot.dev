@@ -1,1 +1,0 @@
-# If no exceptions are raised in the try block... **... the except block won't execute**.

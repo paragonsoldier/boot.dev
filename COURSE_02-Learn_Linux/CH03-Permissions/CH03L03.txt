@@ -1,0 +1,2 @@
+Q: Which permissions allow the owner to execute?
+A: -r-xr-xr--

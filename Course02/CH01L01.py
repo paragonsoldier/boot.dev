@@ -1,2 +1,0 @@
-# Q: What happened when you pressed 'enter'?
-# A: The text 'Hello world' printed to the terminal's console.

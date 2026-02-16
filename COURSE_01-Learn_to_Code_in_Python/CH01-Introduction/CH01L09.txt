@@ -1,0 +1,2 @@
+Q: What does syntax mean?
+A: The rules for valid code in a programming language.
