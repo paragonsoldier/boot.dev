@@ -1,0 +1,2 @@
+Q: True/False - Imperative loops are allowed in purely functional code
+A: False

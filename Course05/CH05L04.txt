@@ -1,1 +1,0 @@
-**Shrubbery** should inherit from **Plant**.

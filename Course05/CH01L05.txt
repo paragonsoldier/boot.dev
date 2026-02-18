@@ -1,1 +1,0 @@
-DRY stands for **Don't repeat yourself**. 

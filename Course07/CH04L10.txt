@@ -1,1 +1,0 @@
-Imperative loops are allowed in purely functional code: False

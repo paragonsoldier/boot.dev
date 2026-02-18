@@ -1,1 +1,0 @@
-Clean code **is easier to work with as a developer**. 

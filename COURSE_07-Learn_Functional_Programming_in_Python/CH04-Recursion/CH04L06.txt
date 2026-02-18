@@ -1,0 +1,2 @@
+Q: Which line has the recursive call?
+A: countdown(n-1)
