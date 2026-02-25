@@ -1,0 +1,2 @@
+Q: Which does NOT affect the hash of a commit?
+A: The author's preferred text editor

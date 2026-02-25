@@ -1,0 +1,2 @@
+Q: True/False - Both rebase and merge can be used to integrate changes from one branch into another.
+A: True

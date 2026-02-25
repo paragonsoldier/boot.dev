@@ -1,0 +1,1 @@
+When provided a hash, git reset --hard **moves your current branch back to an older commit and destructively discards uncommitted changes".

@@ -1,0 +1,1 @@
+A file whose path is `src/main.py` relative to the project root **is ignored**. 

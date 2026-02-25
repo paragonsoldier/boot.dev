@@ -1,0 +1,2 @@
+Q: True/False - It's generally good manners to rebase a public branch onto your own personal branch.
+A: False

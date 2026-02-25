@@ -1,0 +1,2 @@
+Q: Why does the first line show 3 commit hashes?
+A: Because it's a merge commit. It shows its own hash, and the hash of both its parents. 

@@ -1,0 +1,2 @@
+Q: Who created Git?
+A: Linus Torvalds

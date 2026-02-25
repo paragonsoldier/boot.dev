@@ -1,0 +1,1 @@
+Git reset --hard **undoes all changes, deleting the changes forever".

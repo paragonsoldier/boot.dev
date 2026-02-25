@@ -1,0 +1,2 @@
+Q: Which is stored in the user's $HOME directory? (Remember that $HOME = ~/)
+A: global

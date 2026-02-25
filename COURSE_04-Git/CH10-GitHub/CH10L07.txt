@@ -1,0 +1,2 @@
+Q: When working with a team, which is my workflow?
+A: Work on a feature branch, then open a pull request for review. 

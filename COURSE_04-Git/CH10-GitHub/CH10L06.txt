@@ -1,0 +1,2 @@
+Q: When working solo, do I use many different branches and a pull request workflow?
+A: No

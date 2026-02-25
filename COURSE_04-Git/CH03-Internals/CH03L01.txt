@@ -1,0 +1,2 @@
+Q: True/False - If you're not careful, you'll have two commits with the same hash.
+A: False

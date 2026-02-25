@@ -1,0 +1,2 @@
+Q: what happend when you tried to `unset` the `webflyx` section?
+A: It failed because it can't unset an entire section; it needs a key.

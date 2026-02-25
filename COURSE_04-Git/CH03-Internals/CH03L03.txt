@@ -1,0 +1,2 @@
+Q: Which of these most closely matches the format of the path to the file?
+A: .git/objects/65/cf0768bef00a6df9c52d156625675e1045a504

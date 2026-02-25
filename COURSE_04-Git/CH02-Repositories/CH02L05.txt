@@ -1,0 +1,2 @@
+Q: Which command adds a file to the staging area? (a.k.a the index)\
+A: add

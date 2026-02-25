@@ -1,0 +1,2 @@
+Q: True/False - It's generally okay to merge changes into your own private branch, or to rebase your branch onto a public branch.
+A: True

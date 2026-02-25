@@ -1,0 +1,1 @@
+99% of the time, **porcelain** commands are used to interact with Git.

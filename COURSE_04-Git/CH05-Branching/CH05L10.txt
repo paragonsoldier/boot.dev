@@ -1,0 +1,2 @@
+Q: What is stored in the `.git/refs/heads` directory?
+A: One file for each branch, containing the commit hash that the branch points to

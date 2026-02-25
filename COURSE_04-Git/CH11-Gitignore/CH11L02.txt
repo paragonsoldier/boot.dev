@@ -1,0 +1,2 @@
+Q: Based on our file structure, which file is effectively ignored by Git?
+A: src/assets/onlydevs.png

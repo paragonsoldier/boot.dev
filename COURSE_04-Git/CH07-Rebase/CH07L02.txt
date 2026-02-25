@@ -1,0 +1,1 @@
+**Merge** can add an additional commit, **rebase** does not. 
