@@ -1,0 +1,7 @@
+Question 1:
+Q: The result of which operation grows fastest?
+A: Exponentiation
+
+Question 2: 
+Q: How much larger is 2^64 than 2^32?
+A: 2^64 is 2^32 times larger than 2^32

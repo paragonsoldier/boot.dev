@@ -1,0 +1,2 @@
+Q: Which of these algorithms tends to run slowest?
+A: O(n^2)

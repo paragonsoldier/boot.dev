@@ -1,0 +1,7 @@
+Question 1:
+Q: What are the Big O complexities of print_names_one and print_names_two respectively?
+A: O(n), O(n^2)
+
+Question 2: 
+Q: Which function will finish faster, assuming `first_names` and `last_names` are the same non-zero length?
+A: print_names_one

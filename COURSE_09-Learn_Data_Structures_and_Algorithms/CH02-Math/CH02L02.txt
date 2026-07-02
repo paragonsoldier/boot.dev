@@ -1,0 +1,6 @@
+Question 1: 
+2**10 = *1024*
+
+Question 2: 
+Q: 10 to the power of 3 is?
+A: 1,000

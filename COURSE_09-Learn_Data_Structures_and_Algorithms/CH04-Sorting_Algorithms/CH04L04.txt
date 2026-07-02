@@ -1,0 +1,2 @@
+Q: What is a good reason to use bubble sort?
+A: Because I'm studying algorithms

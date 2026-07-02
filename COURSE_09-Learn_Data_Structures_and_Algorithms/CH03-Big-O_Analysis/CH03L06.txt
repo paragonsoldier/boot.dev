@@ -1,0 +1,7 @@
+Question 1:
+Q: Which is a real category in Big O notation?
+A: O(2^n)
+
+Question 2: 
+Q: How would we reduce O(2 * log(2 * n))?
+A: O(log(n))

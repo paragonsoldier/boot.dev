@@ -1,0 +1,2 @@
+Q: Which is not important?
+A: Memorizing all the data structures and algorithms in this course.

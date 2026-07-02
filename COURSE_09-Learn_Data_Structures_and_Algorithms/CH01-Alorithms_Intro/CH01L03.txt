@@ -1,0 +1,6 @@
+Question 1:
+Alorithms must have a/an *Finite* number of steps.
+
+Question 2:
+Q: What does the mystery pseudocode do?
+A: Reverse a String

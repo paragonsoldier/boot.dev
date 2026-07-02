@@ -1,0 +1,7 @@
+Question 1: 
+Q: What is the Big O of `sum()` and `double_sum()` respectively?
+A: O(n) O(n)
+
+Question 2: 
+Q: Ignoring Big-O theory, which function will realistically take longer to execute?
+A: double_sum

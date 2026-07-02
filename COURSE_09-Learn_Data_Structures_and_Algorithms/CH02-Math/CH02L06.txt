@@ -1,0 +1,10 @@
+Question 1:
+log3(9) = *2*
+
+Question 2: 
+Q: log5(5) > 5^5
+A: False
+
+Question 3:
+Q: The result of which operation grows slowest?
+A: Logarithm

@@ -1,0 +1,7 @@
+Question 1: 
+Q: How much larger is `564!` than `563!`?
+A: 564 times larger
+
+Question 2: 
+Q: Which grows the fastest as `n` increases?
+A: n!
