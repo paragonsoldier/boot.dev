@@ -1,0 +1,7 @@
+Question 1: 
+Q: Is insertion sort useful in production systems?
+A: Yes, but only on very small inputs
+
+Question 2: 
+Q: Which algorithm uses less memory, and which is generally faster on larger inputs, respectively?
+A: insertion sort, merge sort

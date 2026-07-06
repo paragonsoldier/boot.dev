@@ -1,0 +1,2 @@
+Q: What is the Big O complexity of the function?
+A: O(log(n))

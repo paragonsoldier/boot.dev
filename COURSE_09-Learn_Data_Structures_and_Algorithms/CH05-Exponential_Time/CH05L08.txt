@@ -1,0 +1,7 @@
+Question 1: 
+Q: What is an equivalent (but not fully reduced) way to express the complexity?
+A: O(2n)
+
+Question 2:
+Q: What is the most reduced form of the function's complexity?
+A: O(n)

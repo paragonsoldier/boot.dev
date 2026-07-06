@@ -1,0 +1,7 @@
+Question 1: 
+Q: What is insertion sort's Big O complexity?
+A: O(n^2)
+
+Question 2: 
+Q: What is insertion sort's Big O complexity on an already sorted array?
+A: O(n)

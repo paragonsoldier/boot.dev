@@ -1,0 +1,6 @@
+Question 1:
+Data structures **store data and allow access to it efficiently**.
+
+Question 2: 
+Q: Which is NOT a data structure?
+A: MySQL

@@ -1,0 +1,7 @@
+Question 1:
+Q: When might merge sort be a good idea?
+A: Need a fast sorting algorithm and memory isn't an issue. 
+
+Question 2: 
+Q: Which function is recursive?
+A: merge_sort

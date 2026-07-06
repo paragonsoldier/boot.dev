@@ -1,0 +1,2 @@
+Q: What is merge sort's Big O complexity?
+A: O(n*log(n))

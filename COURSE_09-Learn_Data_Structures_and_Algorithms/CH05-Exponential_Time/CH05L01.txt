@@ -1,0 +1,1 @@
+Polynomial algorithms are **Faster** than exponential algorithms. 

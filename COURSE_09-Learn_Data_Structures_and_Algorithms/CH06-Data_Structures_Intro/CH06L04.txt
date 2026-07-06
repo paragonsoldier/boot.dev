@@ -1,0 +1,7 @@
+Question 1:
+Q: What is the Big-O complexity of the `last_work_experience()` function, where `n` is the length of the `work_experiences` array?
+A: 1
+
+Question 2: 
+Q: Why is index-lookup so much faster than iteration?
+A: The computer can jump straight to the location of an index - an index is like an address of an item in a list

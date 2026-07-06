@@ -1,0 +1,2 @@
+Q: Which algorithm tends to be fastest?
+A: O(n)
