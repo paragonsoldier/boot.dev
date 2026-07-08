@@ -1,0 +1,5 @@
+Question 1:
+You can find an item in a linked list by... **Iterating through all the nodes by folowing the 'next' references.**
+
+Question 2: 
+Linked lists have a faster time complexity than regular lists when it comes to... **Inserting/deleting items in the middle of the list.**

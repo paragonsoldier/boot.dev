@@ -1,0 +1,7 @@
+Question 1:
+Q: Which operation is `O(1)`?
+A: All of them
+
+Question 2: 
+Q: Where can items be added to and removed from a stack?
+A: top

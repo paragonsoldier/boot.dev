@@ -1,0 +1,5 @@
+Question 1: 
+Nodes in a binary tree can have at most **2** child node(s).
+
+Question 2: 
+Binary search trees, as opposed to generic trees, must be **Ordered: left child < parent < right child**. 

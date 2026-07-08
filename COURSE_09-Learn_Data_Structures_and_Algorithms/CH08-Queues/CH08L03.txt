@@ -1,0 +1,11 @@
+Question 1:
+Q: What is the Big O complexity of push, pop, peek, and size operations on an optiimized queue?
+A: O(1)
+
+Question 2: 
+Q: If an item could be anywhere in a queue, what is the Big O complexity to retrieve that item?
+A: O(n) because you might have to pop all the items in the queue
+
+Question 3: 
+Q: Why is our list-based queue's `push` operation O(n)?
+A: Because you have to move all the elements over by one index to make room for the new element

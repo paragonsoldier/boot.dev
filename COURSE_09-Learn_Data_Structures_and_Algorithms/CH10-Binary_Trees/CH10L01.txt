@@ -1,0 +1,6 @@
+Question 1: 
+Q: Multiple nodes in a tree can have the same value?
+A: Sure, why not?
+
+Question 2: 
+Parent nodes can have **multiple** child(ren), and children can have **one** parent(s). 

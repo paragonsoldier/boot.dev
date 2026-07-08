@@ -1,0 +1,7 @@
+Question 1:
+Q: What can be stored in a stack?
+A: Any of these
+
+Question 2:
+Q: If you want to get to an item at the bottom of a stack, what is the Big-) to retrieve that item?
+A: O(n), because all other items need to be popped first

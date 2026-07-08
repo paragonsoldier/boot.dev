@@ -1,0 +1,5 @@
+Question 1: 
+A Queue made with a linked list instead of an array... **can have O(1) pushes and pops**. 
+
+Question 2:
+A Queue that uses an array doesn't have `O(1)` pushes and pops because... **When elements are added or removed from the last index of the array all the items need to shift, which takes O(n) time**. 
