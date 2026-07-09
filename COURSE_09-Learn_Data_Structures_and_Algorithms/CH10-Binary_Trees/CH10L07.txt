@@ -1,0 +1,7 @@
+Question 1:
+Q: What is the approximate depth of a tree with 16,000 nodes?
+A: 14 levels
+
+Question 2: 
+Q: What is the average Big O of the delete method?
+A: O(log(n))
