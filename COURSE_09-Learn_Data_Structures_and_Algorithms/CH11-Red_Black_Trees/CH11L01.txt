@@ -1,0 +1,7 @@
+Question 1:
+Q: If 100 sorted items are inserted into a BST in order, what will be the Big O complexity of lookups?
+A: O(n)
+
+Question 2: 
+Q: Assuming the tree remains blanced, will its lookups, deletions, or insertions ever degrade past O(log(n))?
+A: No
