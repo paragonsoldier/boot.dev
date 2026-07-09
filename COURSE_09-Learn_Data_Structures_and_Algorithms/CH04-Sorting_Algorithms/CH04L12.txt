@@ -1,0 +1,7 @@
+Question 1:
+Q: What causes quick sort to break down to O(n^2)?
+A: An already sorted list
+
+Question 2: 
+Q: What is quick sort's worst case Big O complexity?
+A: O(n^2)

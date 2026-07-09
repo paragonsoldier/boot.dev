@@ -1,0 +1,7 @@
+Question 1:
+Q: If you need a stable sorting algoritm, which would you use?
+A: Merge sort 
+
+Question 2:
+Q: Which would you be more likely to use in a large production system?
+A: Quick sort

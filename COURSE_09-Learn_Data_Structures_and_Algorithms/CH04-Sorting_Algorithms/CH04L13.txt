@@ -1,0 +1,7 @@
+Question 1: 
+Q: What does shuffling quick sort's input do?
+A: Practically ensures a runtime of O(n*log(n))
+
+Question 2: 
+Q: Why is the media-of-three approach sometimes used?
+A: It doesn't require randomness and impurity
