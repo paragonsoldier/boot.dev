@@ -1,0 +1,7 @@
+Question 1:
+Q: Red-black trees are perfectly balanced
+A: False
+
+Question 2: 
+Q: Red black trees always have worst-case O(log(n)) insertions, deletions, lookups, and rearrangements
+A: True
